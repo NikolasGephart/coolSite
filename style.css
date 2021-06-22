@@ -1,0 +1,29 @@
+.oceanBlue{
+  background-color: blue;
+  height: 8vh;
+}
+
+.whiteText{
+  color:white;
+}
+
+
+.d-flex{
+  display:flex;
+}
+
+.text-center{
+  display:flex;
+  justify-content: center;
+}
+
+main {
+  padding: 0em 1em 10em 1em;
+  height: 55vh;
+}
+
+
+footer{
+  background-color: blue;
+  height: 8vh;
+}
