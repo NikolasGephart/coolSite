@@ -27,3 +27,8 @@ footer{
   background-color: blue;
   height: 8vh;
 }
+
+
+.aside{
+  align-items: center;
+}
